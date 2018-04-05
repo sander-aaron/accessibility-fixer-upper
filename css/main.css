@@ -12,7 +12,6 @@ html {
 
 a {
   color: #113c00;
-  text-decoration: underline;
 }
 
 a:hover {
@@ -33,7 +32,6 @@ a:hover {
 
 .nav a {
   color: #fff;
-  text-decoration: none;
 }
 
 .nav a:focus {
