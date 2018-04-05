@@ -11,8 +11,8 @@ html {
 }
 
 a {
-  color: #568c36;
-  text-decoration: none;
+  color: #113c00;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -34,6 +34,10 @@ a:hover {
 .nav a {
   color: #fff;
   text-decoration: none;
+}
+
+.nav a:focus {
+  outline: #000;
 }
 
 .nav a:hover {
